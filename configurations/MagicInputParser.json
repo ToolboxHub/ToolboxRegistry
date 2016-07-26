@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "MagicInputParser",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/benjamin-heasly/MagicInputParser.git"
+	}
+]

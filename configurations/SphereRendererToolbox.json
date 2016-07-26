@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "SphereRendererToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/RenderToolbox3/SphereRendererToolbox.git"
+	}
+]

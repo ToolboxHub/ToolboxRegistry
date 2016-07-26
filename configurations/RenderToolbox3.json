@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "RenderToolbox3",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": "https://raw.githubusercontent.com/RenderToolbox3/RenderToolbox3/version3/rtbToolboxConfig.json"
+	}
+]

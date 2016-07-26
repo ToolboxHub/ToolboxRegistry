@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
+	}
+]

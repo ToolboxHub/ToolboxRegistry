@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "mexximp",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": "https://raw.githubusercontent.com/RenderToolbox3/mexximp/master/mexximpToolboxConfig.json"
+	}
+]
