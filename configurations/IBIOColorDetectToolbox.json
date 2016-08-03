@@ -1,0 +1,50 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "BrainardLabToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "",
+		"update": "",
+		"url": "https:\/\/github.com:DavidBrainard\/BrainardLabToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "UnitTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "",
+		"update": "",
+		"url": "https:\/\/github.com:isetbio\/UnitTestToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "",
+		"update": "",
+		"url": "https:\/\/github.com:isetbio\/RemoteDataToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "run \/Users\/dhb\/Desktop\/ProjectPrefs\/isetbio\/ieSetPreferencesDB",
+		"localHookTemplate": "",
+		"name": "isetbio",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "",
+		"update": "",
+		"url": "https:\/\/github.com:isetbio\/isetbio.git"
+	}
+]
