@@ -37,7 +37,7 @@
 	},
 	{
 		"flavor": "",
-		"hook": "run \/Users\/dhb\/Desktop\/ProjectPrefs\/isetbio\/ieSetPreferencesDB",
+		"hook": "",
 		"localHookTemplate": "",
 		"name": "isetbio",
 		"pathPlacement": "append",
