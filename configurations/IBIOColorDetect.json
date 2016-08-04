@@ -7,7 +7,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "",
+		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com:DavidBrainard\/BrainardLabToolbox.git"
 	},
@@ -19,7 +19,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "",
+		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com:isetbio\/UnitTestToolbox.git"
 	},
@@ -31,7 +31,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "",
+		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com:isetbio\/RemoteDataToolbox.git"
 	},
@@ -43,7 +43,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "",
+		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com:isetbio\/isetbio.git"
 	}
