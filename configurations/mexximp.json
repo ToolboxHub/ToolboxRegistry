@@ -2,12 +2,37 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"localHookTemplate": "",
+		"name": "exrtools",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "docker",
+		"update": "",
+		"url": "ninjaben\/exrtools-docker"
+	},
+	{
+		"flavor": "",
+		"hook": "clear mex",
+		"localHookTemplate": "",
+		"name": "mexximp_binary",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/github.com\/RenderToolbox3\/mexximp\/releases\/download\/v0.1.1\/build.zip"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
 		"name": "mexximp",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": "https://raw.githubusercontent.com/RenderToolbox3/mexximp/master/mexximpToolboxConfig.json"
+		"url": "https:\/\/github.com\/RenderToolbox3\/mexximp.git"
 	}
 ]
