@@ -9,6 +9,7 @@
 		"toolboxRoot": "",
 		"type": "docker",
 		"update": "",
+		"importance": "optional",
 		"url": "ninjaben\/exrtools-docker"
 	},
 	{

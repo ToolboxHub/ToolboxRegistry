@@ -9,6 +9,7 @@
 		"toolboxRoot": "",
 		"type": "docker",
 		"update": "",
+		"importance": "optional",
 		"url": "ninjaben\/mitsuba-spectral"
 	},
 	{
@@ -33,6 +34,7 @@
 		"toolboxRoot": "",
 		"type": "docker",
 		"update": "",
+		"importance": "optional",
 		"url": "ninjaben\/pbrt-v2-spectral-docker"
 	},
 	{
