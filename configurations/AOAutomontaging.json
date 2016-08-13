@@ -2,6 +2,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
 		"name": "signal",
 		"pathPlacement": "append",
@@ -14,6 +15,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
 		"name": "stats",
 		"pathPlacement": "append",
@@ -26,6 +28,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
 		"name": "images",
 		"pathPlacement": "append",
@@ -38,6 +41,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
 		"name": "optim",
 		"pathPlacement": "append",
