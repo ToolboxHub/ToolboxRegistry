@@ -1,0 +1,50 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "signal",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "stats",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "images",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "optim",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	}
+]
