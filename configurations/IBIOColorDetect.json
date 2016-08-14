@@ -99,7 +99,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "",
+		"type": "git",
 		"update": "",
 		"url": "https://github.com:DavidBrainard/BrainardLabToolbox.git"
 	}
