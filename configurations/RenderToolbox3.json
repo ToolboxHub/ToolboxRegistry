@@ -77,13 +77,13 @@
 		"flavor": "",
 		"hook": "",
 		"localHookTemplate": "",
-		"name": "Psychtoolbox",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
-		"subfolder": "Psychtoolbox",
+		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
