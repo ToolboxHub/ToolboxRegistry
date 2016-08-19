@@ -75,7 +75,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com:isetbio\/isetbio.git"
+		"url": "https://github.com:isetbio/isetbio.git"
 	},
 	{
 		"flavor": "",
@@ -88,7 +88,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com:isetbio\/UnitTestToolbox.git"
+		"url": "https://github.com:isetbio/UnitTestToolbox.git"
 	},
 	{
 		"flavor": "",
@@ -101,7 +101,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com:isetbio\/RemoteDataToolbox.git"
+		"url": "https://github.com:isetbio/RemoteDataToolbox.git"
 	},
 	{
 		"flavor": "",
@@ -114,19 +114,19 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com:DavidBrainard\/BrainardLabToolbox.git"
+		"url": "https://github.com:DavidBrainard/BrainardLabToolbox.git"
 	},
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "Palemedes_1.8",
+		"name": "Palamedes_1.8.0",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "never",
-		"url": "http:\/\/palamedestoolbox.org\/sitebuildercontent\/sitebuilderfiles\/palamedes1_8_2.zip"
+		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
 	}
 ]
