@@ -73,9 +73,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -86,9 +86,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/UnitTestToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -99,9 +99,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -114,7 +114,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/DavidBrainard/BrainardLabToolbox.git"
+		"url": "https:\/\/github.com\/DavidBrainard\/BrainardLabToolbox.git"
 	},
 	{
 		"flavor": "",
@@ -127,6 +127,6 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "never",
-		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
+		"url": "http:\/\/palamedestoolbox.org\/sitebuildercontent\/sitebuilderfiles\/palamedes1_8_2.zip"
 	}
 ]
