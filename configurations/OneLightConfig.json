@@ -77,17 +77,4 @@
 		"update": "never",
 		"url": ""
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "PsychCalLocalData",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": ""
-	}
 ]
