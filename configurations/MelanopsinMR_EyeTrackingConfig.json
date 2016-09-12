@@ -37,5 +37,18 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/mriTemporalFitting.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "pupilTemporalFitting",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/gkaguirrelab\/pupilTemporalFitting.git"
 	}
 ]
