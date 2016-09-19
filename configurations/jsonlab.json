@@ -1,6 +1,6 @@
 [
 	{
-		"flavor": "v1.2",
+		"flavor": "\"v1.2\"",
 		"hook": "",
 		"name": "jsonlab",
 		"pathPlacement": "append",
