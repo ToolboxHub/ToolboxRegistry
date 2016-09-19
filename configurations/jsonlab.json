@@ -1,0 +1,13 @@
+[
+	{
+		"flavor": "v1.2",
+		"hook": "",
+		"name": "jsonlab",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "never",
+		"url": "https://github.com/fangq/jsonlab.git"
+	}
+]
