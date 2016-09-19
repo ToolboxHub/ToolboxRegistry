@@ -2,17 +2,6 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "jsonlab",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
 		"name": "RemoteDataToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
@@ -20,5 +9,16 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "jsonlab",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
