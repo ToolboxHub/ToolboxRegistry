@@ -9,6 +9,29 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/gkaguirrelab/temporalFittingEngine.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "BrainardLabToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git",
+        "subfolder": "Psychtoolbox/Psychometric"
 	}
 ]
 
