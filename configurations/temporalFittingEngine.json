@@ -1,0 +1,14 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "temporalFittingEngine",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/gkaguirrelab/temporalFittingEngine.git"
+	}
+]
+
