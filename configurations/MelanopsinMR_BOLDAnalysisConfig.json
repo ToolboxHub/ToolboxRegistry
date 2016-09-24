@@ -10,7 +10,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/gkaguirrelab\/MRklar.git"
+		"url": "ssh:\/\/github.com\/gkaguirrelab\/MRklar.git"
 	},
 	{
 		"flavor": "",
@@ -23,7 +23,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/gkaguirrelab\/MRlyze.git"
+		"url": "ssh:\/\/github.com\/gkaguirrelab\/MRlyze.git"
 	},
 	{
 		"flavor": "",
@@ -36,6 +36,6 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/gkaguirrelab\/mriTemporalFitting.git"
+		"url": "ssh:\/\/github.com\/gkaguirrelab\/mriTemporalFitting.git"
 	}
 ]
