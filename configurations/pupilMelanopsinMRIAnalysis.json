@@ -17,12 +17,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "mriTemporalFitting",
+		"name": "temporalFittingEngine",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/gkaguirrelab\/mriTemporalFitting.git"
+		"url": "https:\/\/github.com\/gkaguirrelab\/temporalFittingEngine.git"
 	}
 ]
