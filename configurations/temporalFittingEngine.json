@@ -13,13 +13,16 @@
     {
 		"flavor": "",
 		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
 		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/brainardlab/BrainardLabToolbox.git",
+        "subfolder": "Ellipsoids"
 	},
     {
 		"flavor": "",
@@ -32,6 +35,28 @@
 		"update": "",
 		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git",
         "subfolder": "Psychtoolbox/Psychometric"
+	},
+{
+		"flavor": "",
+		"hook": "",
+		"name": "UnitTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+{
+		"flavor": "",
+		"hook": "",
+		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
 
