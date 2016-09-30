@@ -11,11 +11,7 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/temporalFittingEngine.git"
-	}
-]
-
-
-[
+	},
 	{
 		"flavor": "",
 		"hook": "",
@@ -28,10 +24,7 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/MRklar.git"
-	}
-]
-
-[
+	},
 	{
 		"flavor": "",
 		"hook": "",
