@@ -122,7 +122,7 @@
 		"localHookTemplate": "",
 		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
-		"subfolder": "Psychtoolbox/PsychOneliners",
+		"subfolder": "Psychtoolbox",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
