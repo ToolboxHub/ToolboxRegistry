@@ -110,11 +110,24 @@
 		"localHookTemplate": "",
 		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
-		"subfolder": "",
+		"subfolder": "Psychtoolbox/PsychOneliners",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/DavidBrainard/BrainardLabToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
 	},
 	{
 		"flavor": "",
