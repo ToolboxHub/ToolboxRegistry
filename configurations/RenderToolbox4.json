@@ -21,9 +21,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mMitsuba.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -47,9 +47,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mPbrt.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -62,7 +62,7 @@
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
-		"url": "https:\/\/raw.githubusercontent.com\/RenderToolbox3\/mexximp\/master\/mexximpToolboxConfig.json"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -73,9 +73,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/SphereRendererToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -86,9 +86,9 @@
 		"pathPlacement": "append",
 		"subfolder": "Psychtoolbox",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
