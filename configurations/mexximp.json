@@ -22,7 +22,7 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mexximp\/releases\/download\/v0.1.1\/build.zip"
+		"url": "https:\/\/github.com\/RenderToolbox\/mexximp\/releases\/download\/v0.1.1\/build.zip"
 	},
 	{
 		"flavor": "",
@@ -34,6 +34,6 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mexximp.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/mexximp.git"
 	}
 ]
