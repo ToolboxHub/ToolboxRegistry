@@ -101,7 +101,7 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/RenderToolbox4\/releases\/download\/v4.0\/build.zip"
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox4\/releases\/download\/v4.0\/build.zip"
 	},
 	{
 		"flavor": "",
@@ -114,6 +114,6 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/RenderToolbox4.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox4.git"
 	}
 ]
