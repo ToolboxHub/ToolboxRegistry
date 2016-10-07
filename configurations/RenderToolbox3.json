@@ -22,7 +22,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mMitsuba.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/mMitsuba.git"
 	},
 	{
 		"flavor": "",
@@ -47,7 +47,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/mPbrt.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/mPbrt.git"
 	},
 	{
 		"flavor": "",
@@ -71,7 +71,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/SphereRendererToolbox.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/SphereRendererToolbox.git"
 	},
 	{
 		"flavor": "",
@@ -95,7 +95,7 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/RenderToolbox3\/releases\/download\/test-build-2\/build.zip"
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox3\/releases\/download\/test-build-2\/build.zip"
 	},
 	{
 		"flavor": "version3",
@@ -107,7 +107,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox3\/RenderToolbox3.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox3.git"
 	}
 ]
 
