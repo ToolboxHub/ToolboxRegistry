@@ -29,13 +29,13 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "vsaMachineSetup.m",
-		"name": "VirtualScenesAssets",
+		"localHookTemplate": "aioMachineSetup.m",
+		"name": "AssetIOToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/RenderToolbox\/VirtualScenesAssets.git"
+		"url": "https:\/\/github.com\/RenderToolbox\/AssetIOToolbox.git"
 	}
 ]
