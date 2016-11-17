@@ -43,13 +43,26 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "VirtualScenesAssets",
+		"name": "AssetIOToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "VirtualScenesExampleAssets",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/RenderToolbox\/VirtualScenesExampleAssets.git"
 	},
 	{
 		"flavor": "",
