@@ -8,9 +8,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/DavidBrainard/BrainardLabToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -21,9 +21,9 @@
 		"pathPlacement": "append",
 		"subfolder": "Psychtoolbox",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -56,45 +56,6 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "isetbio",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "UnitTestToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/isetbio/UnitTestToolbox.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
-	},	
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
 		"name": "Palamedes_1.8.2",
 		"pathPlacement": "append",
 		"subfolder": "",
@@ -102,5 +63,18 @@
 		"type": "webget",
 		"update": "never",
 		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
+	},
+{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "PsychCalLocalData",
+		"pathPlacement": "append",
+		"subfolder": "trunk",
+		"toolboxRoot": "",
+		"type": "svn",
+		"update": "",
+		"url": "https://platypus.psych.upenn.edu/repos/toolboxes/PsychCalLocalData"
 	}
 ]
