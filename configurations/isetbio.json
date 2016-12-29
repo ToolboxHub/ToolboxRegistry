@@ -58,9 +58,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/UnitTestToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -71,8 +71,8 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
+		"url": ""
 	}
 ]
