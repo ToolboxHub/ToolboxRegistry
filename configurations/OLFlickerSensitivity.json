@@ -4,26 +4,13 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "BrainardLabToolbox",
+		"name": "BrainardLabBase",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/brainardlab\/BrainardLabToolbox.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Psychtoolbox-3",
-		"pathPlacement": "append",
-		"subfolder": "Psychtoolbox",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -76,31 +63,5 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/PupilAnalysisToolbox.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "mgl",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "PsychCalLocalData",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": ""
 	}
 ]
