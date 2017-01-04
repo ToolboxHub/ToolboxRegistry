@@ -27,6 +27,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+                "requirementHook": "mexximpCheckNativeDependencies",
 		"localHookTemplate": "",
 		"name": "mexximp",
 		"pathPlacement": "append",
