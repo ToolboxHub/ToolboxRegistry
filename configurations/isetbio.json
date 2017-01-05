@@ -42,7 +42,7 @@
 		"flavor": "",
 		"hook": "",
 		"name": "isetbio",
-        "localHookTemplate": "configuration/isetbioLocalHookTemplate",
+        "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
