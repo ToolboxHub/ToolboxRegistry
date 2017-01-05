@@ -3,7 +3,7 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
+		"localHookTemplate": "configuration/isetbioLocalHookTemplate",
 		"name": "signal",
 		"pathPlacement": "append",
 		"subfolder": "",
