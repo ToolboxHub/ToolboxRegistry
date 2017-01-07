@@ -21,9 +21,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -34,8 +34,8 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/BrainardLab/BrainardLabToolbox.git"
+		"url": ""
 	}
 ]
