@@ -37,8 +37,8 @@
 		"type": "include",
 		"update": "",
 		"url": ""
-	}
-  {
+	},
+        {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
