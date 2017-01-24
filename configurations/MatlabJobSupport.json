@@ -19,6 +19,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
+		"localHookTemplate": "matlab/mjsLocalConfigTemplate.m",
 		"url": "https://github.com/BrainardLab/MatlabJobSupport.git"
 	}
 ]
