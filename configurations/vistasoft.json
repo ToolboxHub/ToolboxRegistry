@@ -19,9 +19,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "local",
-		"update": "never",
-		"url": "file://~/matlab/toolboxes/spm12"
+		"type": "include",
+		"update": "",
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -32,8 +32,8 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/RemoteDataToolbox.git"
+		"url": ""
 	}
 ]
