@@ -2,6 +2,19 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "struct2xml",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
 		"name": "mMitsuba",
 		"pathPlacement": "append",
 		"subfolder": "",
