@@ -28,6 +28,32 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "struct2xml",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "xml2struct",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
 		"importance": "optional",
 		"localHookTemplate": "",
 		"name": "pbrt-v2-spectral-docker",

@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "zip",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "xml2struct",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "never",
+		"url": "https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28518/versions/9/download/zip"
+	}
+]
