@@ -2,6 +2,7 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"localHookTemplate": "Configuration/temporalFittingEngineLocalHookTemplate.m",
 		"name": "temporalFittingEngine",
 		"pathPlacement": "append",
 		"subfolder": "",
@@ -19,9 +20,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/brainardlab/BrainardLabToolbox.git",
+		"url": "",
         "subfolder": "Ellipsoids"
 	},
     {
@@ -31,12 +32,12 @@
 		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/github.com\/Psychtoolbox-3\/Psychtoolbox-3.git",
+		"url": "",
         "subfolder": "Psychtoolbox/Psychometric"
 	},
-{
+    {
 		"flavor": "",
 		"hook": "",
 		"name": "UnitTestToolbox",
@@ -47,7 +48,7 @@
 		"update": "",
 		"url": ""
 	},
-{
+    {
 		"flavor": "",
 		"hook": "",
 		"name": "RemoteDataToolbox",
