@@ -2,7 +2,7 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"localHookTemplate": "Configuration/temporalFittingEngineLocalHookTemplate.m",
+		"localHookTemplate": "configuration/temporalFittingEngineLocalHookTemplate.m",
 		"name": "temporalFittingEngine",
 		"pathPlacement": "append",
 		"subfolder": "",
