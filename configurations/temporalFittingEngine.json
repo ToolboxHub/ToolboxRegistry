@@ -11,33 +11,7 @@
 		"update": "",
 		"url": "https://github.com/gkaguirrelab/temporalFittingEngine.git"
 	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "BrainardLabToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": "",
-        "subfolder": "Ellipsoids"
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"localHookTemplate": "",
-		"name": "Psychtoolbox-3",
-		"pathPlacement": "append",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": "",
-        "subfolder": "Psychtoolbox/Psychometric"
-	},
-    {
+        {
 		"flavor": "",
 		"hook": "",
 		"name": "UnitTestToolbox",
@@ -48,7 +22,7 @@
 		"update": "",
 		"url": ""
 	},
-    {
+        {
 		"flavor": "",
 		"hook": "",
 		"name": "RemoteDataToolbox",
@@ -59,7 +33,7 @@
 		"update": "",
 		"url": ""
 	},
-		{
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
