@@ -1,50 +1,55 @@
 [
-	{
-		"flavor": "",
-		"hook": "",
-		"localHookTemplate": "configuration/temporalFittingEngineLocalHookTemplate.m",
-		"name": "temporalFittingEngine",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/gkaguirrelab/temporalFittingEngine.git"
-	},
-        {
-		"flavor": "",
-		"hook": "",
-		"name": "UnitTestToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-        {
-		"flavor": "",
-		"hook": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
+
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
+		"localHookTemplate": "configuration/LiveTrackfMRIToolboxLocalHook",
+		"name": "LiveTrackfMRIToolbox",
+		"pathPlacement": "append",
+		"subfolder": "code",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": ""
+	},
+        {
+		"flavor": "",
+		"hook": "",
 		"localHookTemplate": "",
-		"name": "fshift",
+		"name": "BrainardLabToolbox",
+		"pathPlacement": "append",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": "",
+                "subfolder": ""
+	},
+        {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": "",
+                "subfolder": ""
+	},
+ 	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "quadfit",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/7886\/versions\/5\/download\/zip"
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
 	}
+
 ]
 
