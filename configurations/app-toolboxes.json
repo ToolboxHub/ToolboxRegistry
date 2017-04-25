@@ -133,5 +133,20 @@
 		"type": "include",
 		"update": "never",
 		"url": ""
+	},
+	{
+		"extra": "",
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "JavaTreeWrapper",
+		"pathPlacement": "append",
+		"requirementHook": "",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "never",
+		"url": ""
 	}
 ]
