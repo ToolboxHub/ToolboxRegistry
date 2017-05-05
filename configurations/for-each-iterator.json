@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "for-each-iterator",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "webget",
+	"update": "never",
+	"url": "http:\/\/in.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/48729\/versions\/11\/download\/zip"
+}

@@ -148,5 +148,22 @@
 		"type": "include",
 		"update": "never",
 		"url": ""
-	}
+	},
+    {
+        "extra": "",
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "for-each-iterator",
+        "pathPlacement": "append",
+        "requirementHook": "",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "never",
+        "url": ""
+    }
+
+
 ]
