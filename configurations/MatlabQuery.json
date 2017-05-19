@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "MatlabQuery",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "git",
+	"update": "",
+	"url": "https:\/\/github.com\/brian-lau\/MatlabQuery.git"
+}

@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "mmockito",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "git",
+	"update": "",
+	"url": "https:\/\/github.com\/ragavsathish\/mmockito.git"
+}

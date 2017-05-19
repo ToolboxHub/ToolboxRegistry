@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "PropertyGrid",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "webget",
+	"update": "never",
+	"url": "https:\/\/se.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/28732\/versions\/1\/download\/zip"
+}

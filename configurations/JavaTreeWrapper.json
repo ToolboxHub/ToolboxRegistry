@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "JavaTreeWrapper",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "webget",
+	"update": "never",
+	"url": "https:\/\/se.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/47630\/versions\/9\/download\/zip"
+}

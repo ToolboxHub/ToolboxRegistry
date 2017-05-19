@@ -1,0 +1,15 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "matlab-tree",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "git",
+	"update": "never",
+	"url": "https:\/\/github.com\/raacampbell\/matlab-tree.git"
+}
