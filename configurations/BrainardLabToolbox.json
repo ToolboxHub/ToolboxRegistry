@@ -3,7 +3,7 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
+		"localHookTemplate": "Configuration/BrainardLabToolboxLocalHookTemplate",
 		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
