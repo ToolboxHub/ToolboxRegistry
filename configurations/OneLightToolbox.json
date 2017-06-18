@@ -1,0 +1,13 @@
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "OneLightToolbox",
+    "pathPlacement": "append",
+    "subfolder": ["OLLibrary", "OLLabJackLibrary", "OLReceptorIsolate", "OLDemoPrograms", "OLTestPrograms", "OLPrograms", "OLContactLensMeasurement"],
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https:\/\/github.com\/DavidBrainard\/OneLightToolbox.git"
+}
