@@ -2,7 +2,7 @@
     "flavor": "",
     "hook": "",
     "importance": "",
-    "localHookTemplate": "",
+    "localHookTemplate": "Configuration/OneLightToolboxLocalHookTemplate.m",
     "name": "OneLightToolbox",
     "pathPlacement": "append",
     "subfolder": ["OLLibrary", "OLLabJackLibrary", "OLDemoPrograms", "OLTestPrograms", "OLPrograms", "OLContactLensMeasurement", "OLApproachSupport"],
