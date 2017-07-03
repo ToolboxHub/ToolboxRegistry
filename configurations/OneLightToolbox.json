@@ -5,7 +5,7 @@
     "localHookTemplate": "",
     "name": "OneLightToolbox",
     "pathPlacement": "append",
-    "subfolder": ["OLLibrary", "OLLabJackLibrary", "OLDemoPrograms", "OLTestPrograms", "OLPrograms", "OLContactLensMeasurement", "OLApproachSupport"],
+    "subfolder": ["OLLibrary", "OLLabJackLibrary", "OLDemoPrograms", "OLReceptorIsolate", "OLTestPrograms", "OLPrograms", "OLContactLensMeasurement"],
     "toolboxRoot": "",
     "type": "git",
     "update": "",
