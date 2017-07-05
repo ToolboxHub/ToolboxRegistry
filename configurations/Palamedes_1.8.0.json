@@ -7,7 +7,7 @@
     "pathPlacement": "append",
     "subfolder": "",
     "toolboxRoot": "",
-    "type": "webget",
+    "type": "svn",
     "update": "never",
-    "url": "http:\/\/palamedestoolbox.org\/sitebuildercontent\/sitebuilderfiles\/palamedes1_8_0.zip"
+    "url": "https://platypus.psych.upenn.edu/repos/toolboxesdistrib/Palamedes_1.8"
 }
