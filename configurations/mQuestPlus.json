@@ -37,18 +37,5 @@
 		"type": "installed",
 		"update": "",
 		"url": ""
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "nnet",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
 	}
 ]
