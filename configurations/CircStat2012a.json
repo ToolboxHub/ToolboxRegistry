@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "CircStat2012a",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "never",
+		"url": "https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/10676/versions/22/download/zip"
+	}
+]
