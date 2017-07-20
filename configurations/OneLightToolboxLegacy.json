@@ -1,0 +1,13 @@
+{
+    "flavor": "master_061517",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "OneLightToolboxLegacy",
+    "pathPlacement": "append",
+    "subfolder": ["MatlabLibrary", "MatlabPrograms", "OLSilentSubstitutionHelpers", "OneLightEngineMatlab", "ContactLensMeasurement", "TestPrograms"],
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https:\/\/github.com\/DavidBrainard\/OneLightToolbox.git"
+}
