@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "master",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "RenderToolbox3v2",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/RenderToolbox/RenderToolbox3.git"
+	}
+]
