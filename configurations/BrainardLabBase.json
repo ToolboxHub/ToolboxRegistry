@@ -71,7 +71,7 @@
 		"localHookTemplate": "",
 		"name": "PsychCalLocalData",
 		"pathPlacement": "append",
-		"subfolder": "trunk",
+		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "svn",
 		"update": "",
