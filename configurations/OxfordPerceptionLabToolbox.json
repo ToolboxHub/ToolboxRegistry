@@ -3,7 +3,7 @@
     "hook": "",
     "importance": "",
     "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
-    "name": "OneLightToolbox",
+    "name": "OxfordPerceptionLabToolbox",
     "pathPlacement": "append",
     "subfolder": "",
     "toolboxRoot": "",
