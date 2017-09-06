@@ -21,7 +21,7 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
-		"update": "",
+		"update": "never",
 		"url": "https:\/\/github.com\/RenderToolbox\/mexximp\/releases\/download\/v0.1.1\/build.zip"
 	},
 	{
