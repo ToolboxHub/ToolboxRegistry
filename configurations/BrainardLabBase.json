@@ -62,7 +62,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "never",
-		"url": "https://github.com/justingardner/mgl"
+		"url": "https://github.com/BrainardLab/mgl.git"
 	},
     {
 		"flavor": "",
