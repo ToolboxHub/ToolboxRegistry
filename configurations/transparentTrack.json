@@ -4,14 +4,14 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "configuration/transparentTrackLocalHook",
+		"localHookTemplate": "configuration/transparentTrackLocalHook.m",
 		"name": "transparentTrack",
 		"pathPlacement": "append",
 		"subfolder": "code",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https:\/\/github.com\/gkaguirrelab\/transparentTrack.git"
 	},
  	{
 		"flavor": "",
