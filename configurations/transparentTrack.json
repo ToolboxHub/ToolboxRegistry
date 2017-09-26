@@ -7,7 +7,7 @@
 		"localHookTemplate": "configuration/transparentTrackLocalHook.m",
 		"name": "transparentTrack",
 		"pathPlacement": "append",
-		"subfolder": "code",
+		"subfolder": ["code","demo"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
