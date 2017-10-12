@@ -6,14 +6,14 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "matlab-persistence",
+		"name": "MatlabPersistence",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/ragavsathish\/matlab-persistence.git"
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/MatlabPersistence.git"
 	},
 	{
 		"extra": "",
