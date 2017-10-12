@@ -1,0 +1,13 @@
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "Palamedes_1.8.2",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "webget",
+    "update": "never",
+    "url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
+}

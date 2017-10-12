@@ -34,9 +34,22 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/Spitschan/SilentSubstitutionToolbox.git"
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "mQUESTPlus",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -49,29 +62,16 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "never",
-		"url": "https://github.com/justingardner/mgl"
+		"url": "https://github.com/BrainardLab/mgl.git"
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Palamedes_1.8.2",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
-	},
-{
+    {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "PsychCalLocalData",
 		"pathPlacement": "append",
-		"subfolder": "trunk",
+		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "svn",
 		"update": "",

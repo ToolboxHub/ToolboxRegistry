@@ -1,0 +1,13 @@
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "OneLightDriver",
+    "pathPlacement": "append",
+    "subfolder": "OneLightEngineSourceMex",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https:\/\/github.com\/DavidBrainard\/OneLightDriver.git"
+}

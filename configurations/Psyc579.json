@@ -8,9 +8,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/DavidBrainard/BrainardLabToolbox.git"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -21,9 +21,35 @@
 		"pathPlacement": "append",
 		"subfolder": "Psychtoolbox",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "SilentSubstitutionToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "mQUESTPlus",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -34,21 +60,8 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "webget",
+		"type": "git",
 		"update": "never",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Palamedes_1.0",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": "http://palamedestoolbox.org/shouldpointatbrainardsvn"
+		"url": "https://github.com/BrainardLab/mgl.git"
 	}
 ]

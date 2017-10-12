@@ -1,0 +1,13 @@
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "Palamedes_1.8.0",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "svn",
+    "update": "never",
+    "url": "https://platypus.psych.upenn.edu/repos/toolboxesdistrib/Palamedes_1.8"
+}
