@@ -12,22 +12,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/ala-laurila-lab\/app-toolboxes.git"
-	},
-    {
-		"extra": "",
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "mdepin",
-		"pathPlacement": "append",
-		"requirementHook": "",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/AppToolbox.git"
 	},
 	{
 		"extra": "",
@@ -46,7 +31,22 @@
 	},
 	{
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "JavaTreeWrapper",
+		"pathPlacement": "append",
+		"requirementHook": "",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/JavaTreeWrapper.git"
+	},
+	{
+		"extra": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -55,54 +55,69 @@
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/JavaTableWrapper.git"
 	},
 	{
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "matlab-tree",
+		"name": "MatlabPropertyGrid",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
-	{
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/PropertyGrid.git"
+	},	
+    {
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "PropertyGrid",
+		"name": "mdepin",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
-	{
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/mdepin.git"
+	},	
+    {
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "jsonlab",
+		"name": "MatlabPersistence",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/MatlabPersistence.git"
+	},	
+	{
+	    "extra": "",
+	    "flavor": "",
+	    "hook": "",
+	    "importance": "",
+	    "localHookTemplate": "",
+	    "name": "for-each-iterator",
+	    "pathPlacement": "append",
+	    "requirementHook": "",
+	    "subfolder": "",
+	    "toolboxRoot": "",
+	    "type": "include",
+	    "update": "never",
+	    "url": ""
 	},
 	{
 		"extra": "",
@@ -131,7 +146,7 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
-		"update": "never",
+		"update": "",
 		"url": ""
 	},
 	{
@@ -140,30 +155,44 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "JavaTreeWrapper",
+		"name": "matlab-tree",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
-		"update": "never",
+		"update": "",
 		"url": ""
 	},
     {
-        "extra": "",
-        "flavor": "",
-        "hook": "",
-        "importance": "",
-        "localHookTemplate": "",
-        "name": "for-each-iterator",
-        "pathPlacement": "append",
-        "requirementHook": "",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "include",
-        "update": "never",
-        "url": ""
-    }
-
+    	"extra": "",
+    	"flavor": "",
+    	"hook": "",
+    	"importance": "",
+    	"localHookTemplate": "",
+    	"name": "jsonlab",
+    	"pathPlacement": "append",
+    	"requirementHook": "",
+    	"subfolder": "",
+    	"toolboxRoot": "",
+    	"type": "include",
+    	"update": "",
+    	"url": ""
+    },
+    {
+	"extra": "",
+	"flavor": "v1.0",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "mmockito",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "git",
+	"update": "",
+	"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/mmockito.git"
+}
 
 ]
