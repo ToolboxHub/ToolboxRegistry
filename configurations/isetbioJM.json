@@ -39,7 +39,7 @@
 		"url": ""
 	},
     {
-		"flavor": "jenntest",
+		"flavor": "",
 		"hook": "",
 		"name": "isetbio",
         "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
@@ -48,7 +48,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": "https://github.com/jenmaxwell/isetbio.git"
 	},
     {
 		"flavor": "",
