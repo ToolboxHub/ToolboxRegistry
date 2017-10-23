@@ -41,7 +41,7 @@
     {
 		"flavor": "",
 		"hook": "",
-		"name": "isetbio",
+		"name": "isetbioJM",
         "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
