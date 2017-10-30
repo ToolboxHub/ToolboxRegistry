@@ -63,5 +63,18 @@
 		"type": "git",
 		"update": "never",
 		"url": "https://github.com/BrainardLab/mgl.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Palamedes_1.8.2",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
