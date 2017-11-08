@@ -6,7 +6,7 @@
 		"localHookTemplate": "configuration/flywheelMRSupportLocalHook",
 		"name": "flywheelMRSupport",
 		"pathPlacement": "append",
-		"subfolder": "code",
+		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
