@@ -10,7 +10,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https:\/\/github.com\/gkaguirrelab\/flywheelMRSupport.git"
 	},
     {
 		"flavor": "",
@@ -23,7 +23,7 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": "https:\/\/github.com\/flywheel-io/sdk/releases/tag/0.2.1/fw_sdk_matlab-macosx_amd64.tgz"
+		"url": "https:\/\/github.com\/flywheel-io/sdk/releases/download/0.2.1/fw_sdk_matlab-macosx_amd64.tgz"
 	},
 	{
 		"flavor": "",
