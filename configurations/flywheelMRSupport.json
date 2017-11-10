@@ -13,7 +13,7 @@
 		"url": "https:\/\/github.com\/gkaguirrelab\/flywheelMRSupport.git"
 	},
     {
-		"flavor": "0.2.1",
+		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -21,9 +21,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/flywheel-io/sdk/"
+		"type": "webget",
+		"update": "never",
+		"url": "https:\/\/github.com\/flywheel-io/sdk/releases/download/0.2.1/fw_sdk_matlab-macosx_amd64.tgz"
 	},
 	{
 		"flavor": "",
