@@ -11,5 +11,18 @@
 	"type": "git",
 	"update": "",
 	"url": "https://github.com/gkaguirrelab/rgcDisplacementMap.git"
-	}
+	},
+	{
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "SPHERE3D",
+	"pathPlacement": "append",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "webget",
+	"update": "",
+	"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/8585\/versions\/1\/download\/zip"
+	}	
 ]
