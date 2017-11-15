@@ -1,16 +1,17 @@
 [
     {
-    "flavor": "",
-    "hook": "",
-    "importance": "",
-    "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
-    "name": "OxfordPerceptionLabToolbox",
-    "pathPlacement": "append",
-    "subfolder": "",
-    "toolboxRoot": "",
-    "type": "git",
-    "update": "",
-    "url": "https:\/\/github.com\/spitschan\/OxfordPerceptionLabToolbox.git"
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
+        "name": "OxfordPerceptionLabToolbox",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https:\/\/github.com\/spitschan\/OxfordPerceptionLabToolbox.git"
+    },
 	{
 		"flavor": "",
 		"hook": "",
