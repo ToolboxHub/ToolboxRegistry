@@ -158,7 +158,7 @@
 	{
 		"flavor": "",
 		"hook": "",
-                "requirementHook": "rtbCheckNativeDependencies",
+         "requirementHook": "rtbCheckNativeDependencies",
 		"importance": "",
 		"localHookTemplate": "rtbLocalConfigTemplate.m",
 		"name": "RenderToolbox4",
