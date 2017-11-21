@@ -1,0 +1,14 @@
+{
+		"flavor": "",
+		"hook": "",
+                "requirementHook": "",
+		"importance": "",
+		"localHookTemplate": "rtbLocalConfigTemplate.m",
+		"name": "pbrt2iset",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/RenderToolbox\/pbrt2iset.git"
+	}

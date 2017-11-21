@@ -129,6 +129,19 @@
 		"update": "",
 		"url": ""
 	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "pbrt2iset",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
 	{
 		"flavor": "",
 		"hook": "clear mex",
