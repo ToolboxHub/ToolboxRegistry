@@ -1,4 +1,43 @@
 [
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
+        "name": "OxfordPerceptionLabToolbox",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https:\/\/github.com\/spitschan\/OxfordPerceptionLabToolbox.git"
+    },
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "SilentSubstitutionToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/spitschan/SilentSubstitutionToolbox.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
 	{
 		"flavor": "",
 		"hook": "",
@@ -11,70 +50,5 @@
 		"type": "include",
 		"update": "",
 		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Psychtoolbox-3",
-		"pathPlacement": "append",
-		"subfolder": "Psychtoolbox",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-        "flavor": "",
-        "hook": "",
-        "importance": "",
-        "localHookTemplate": "",
-        "name": "OPLToolbox",
-        "pathPlacement": "append",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "git",
-        "update": "",
-        "url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
-    },
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "SilentSubstitutionToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "mQUESTPlus",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "mgl",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "never",
-		"url": "https://github.com/BrainardLab/mgl.git"
 	}
 ]
