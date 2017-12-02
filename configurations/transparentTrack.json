@@ -25,44 +25,5 @@
 		"type": "webget",
 		"update": "",
 		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "geom3d",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "",
-		"url":"http:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/24484\/versions\/24\/download\/zip"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "movingslope",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "",
-		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/16997\/versions\/1\/download\/zip"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "IrisSeg",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https:\/\/github.com\/cdac-cvml\/IrisSeg.git"
 	}
 ]
