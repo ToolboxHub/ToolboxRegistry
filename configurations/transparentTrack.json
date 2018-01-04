@@ -12,19 +12,6 @@
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/transparentTrack.git"
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "EPnP",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https:\/\/github.com\/gkaguirrelab\/EPnP.git"
-	},
  	{
 		"flavor": "",
 		"hook": "",
