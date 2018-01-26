@@ -22,8 +22,8 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
-		"update": "never",
-		"url": "https:\/\/github.com\/flywheel-io/sdk/releases/download/0.2.1/fw_sdk_matlab-macosx_amd64.tgz"
+		"update": "",
+		"url": "https://stanford.app.box.com/v/fw-sdk-latest-osx/fw_sdk_latest_matlab-binary_osx.zip
 	},
 	{
 		"flavor": "",
