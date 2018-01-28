@@ -10,7 +10,11 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-		"url": ["MACI64"  "https://stanford.box.com/shared/static/j89elq3upt0ojxaju4cxwyft6heuiwnk.zip"
-                "GLNXA64" "https://stanford.box.com/shared/static/wnrmyhud3og6zcnevmpf2147e5trza7x.zip"]
+        "url": [
+               "MACI64"
+               "https://stanford.box.com/shared/static/j89elq3upt0ojxaju4cxwyft6heuiwnk.zip"
+               "GLNXA64" 
+               "https://stanford.box.com/shared/static/wnrmyhud3og6zcnevmpf2147e5trza7x.zip"
+               ]
 	}
 ]
