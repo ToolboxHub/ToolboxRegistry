@@ -18,7 +18,7 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "quadfit",
-		"pathPlacement": "append",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
