@@ -18,12 +18,12 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "quadfit",
-		"pathPlacement": "prepend",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "webget",
+		"type": "git",
 		"update": "",
-		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
+		"url": "https:\/\/github.com\/gkaguirrelab\/quadfit.git"
 	},
 	{
 		"flavor": "",
