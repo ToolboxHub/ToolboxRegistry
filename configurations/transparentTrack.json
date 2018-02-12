@@ -31,7 +31,7 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "bads",
-		"pathPlacement": "append",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
