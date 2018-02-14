@@ -30,7 +30,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "Psychtoolbox-3",
+		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -38,12 +38,12 @@
 		"update": "",
 		"url": ""
 	},
-	{
+		{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "BrainardLabToolbox",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
