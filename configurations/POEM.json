@@ -4,7 +4,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "configuration/POEM.m",
-		"name": "transparentTrack",
+		"name": "POEM",
 		"pathPlacement": "append",
 		"subfolder": ["code","testData"],
 		"toolboxRoot": "",
