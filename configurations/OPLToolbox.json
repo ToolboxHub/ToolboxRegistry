@@ -4,13 +4,13 @@
         "hook": "",
         "importance": "",
         "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
-        "name": "OxfordPerceptionLabToolbox",
+        "name": "OPLToolbox",
         "pathPlacement": "append",
         "subfolder": "",
         "toolboxRoot": "",
         "type": "git",
         "update": "",
-        "url": "https:\/\/github.com\/spitschan\/OxfordPerceptionLabToolbox.git"
+        "url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
     },
 	{
 		"flavor": "",
