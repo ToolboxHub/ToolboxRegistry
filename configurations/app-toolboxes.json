@@ -31,7 +31,7 @@
 	},
 	{
 		"extra": "",
-		"flavor": "v1.0",
+		"flavor": "v1.1",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -73,7 +73,7 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/PropertyGrid.git"
-	},	
+	},
     {
 		"extra": "",
 		"flavor": "v1.0",
@@ -88,7 +88,7 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/mdepin.git"
-	},	
+	},
     {
 		"extra": "",
 		"flavor": "v1.0",
@@ -103,7 +103,7 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/MatlabPersistence.git"
-	},	
+	},
 	{
 	    "extra": "",
 	    "flavor": "",

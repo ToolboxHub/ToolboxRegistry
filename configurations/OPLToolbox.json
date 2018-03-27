@@ -4,13 +4,13 @@
         "hook": "",
         "importance": "",
         "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
-        "name": "OxfordPerceptionLabToolbox",
+        "name": "OPLToolbox",
         "pathPlacement": "append",
         "subfolder": "",
         "toolboxRoot": "",
         "type": "git",
         "update": "",
-        "url": "https:\/\/github.com\/spitschan\/OxfordPerceptionLabToolbox.git"
+        "url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
     },
 	{
 		"flavor": "",
@@ -30,7 +30,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "Psychtoolbox-3",
+		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -38,12 +38,12 @@
 		"update": "",
 		"url": ""
 	},
-	{
+		{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "BrainardLabToolbox",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",

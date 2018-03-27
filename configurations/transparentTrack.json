@@ -12,7 +12,7 @@
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/transparentTrack.git"
 	},
- 	{
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
@@ -24,5 +24,18 @@
 		"type": "webget",
 		"update": "",
 		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "bads",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/lacerbi\/bads.git"
 	}
 ]

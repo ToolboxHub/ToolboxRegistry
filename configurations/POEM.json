@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "configuration/POEM.m",
+		"name": "POEM",
+		"pathPlacement": "append",
+		"subfolder": ["code","testData"],
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/gkaguirrelab\/POEM.git"
+	}
+]
