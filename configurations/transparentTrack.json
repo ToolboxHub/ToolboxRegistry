@@ -17,13 +17,13 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "quadfit",
+		"name": "gkaModelEye",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "webget",
+		"type": "include",
 		"update": "",
-		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
+		"url": ""
 	},
 	{
 		"flavor": "",
@@ -37,18 +37,5 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/lacerbi\/bads.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "ExampleTestToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
 	}
 ]
