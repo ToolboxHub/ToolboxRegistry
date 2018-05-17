@@ -1,0 +1,41 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "gkaModelEye",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/gkaguirrelab\/gkaModelEye.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "quadfit",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/45356\/versions\/5\/download\/zip"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ExampleTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	}
+]
