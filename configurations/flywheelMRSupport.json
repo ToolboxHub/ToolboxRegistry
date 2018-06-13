@@ -30,7 +30,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "fw_sdk_matlab",
+		"name": "fw_sdk_mltbx",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -102,18 +102,5 @@
 		"type": "webget",
 		"update": "never",
 		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/31272\/versions\/9\/download\/zip"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "JSONio",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https:\/\/github.com\/gllmflndn\/JSONio.git"
 	}
 ]
