@@ -1,0 +1,15 @@
+[
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "fw_sdk_mltbx",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+        "url": "https://github.com/flywheel-io/core/releases/download/2.1.3/flywheel-sdk-2.1.3.mltbx"
+	}
+]
