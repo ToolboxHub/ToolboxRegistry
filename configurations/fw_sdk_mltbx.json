@@ -5,7 +5,7 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "fw_sdk_mltbx",
-		"pathPlacement": "append",
+		"pathPlacement": "mltbx",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
