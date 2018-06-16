@@ -1,0 +1,15 @@
+[
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "flywheel-sdk",
+		"pathPlacement": "mltbx",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+        "url": "https://github.com/flywheel-io/core/releases/download/2.1.4/flywheel-sdk-2.1.4.mltbx"
+	}
+]
