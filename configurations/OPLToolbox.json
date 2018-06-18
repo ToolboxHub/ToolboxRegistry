@@ -1,16 +1,16 @@
 [
     {
-        "flavor": "",
-        "hook": "",
-        "importance": "",
-        "localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
-        "name": "OPLToolbox",
-        "pathPlacement": "append",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "git",
-        "update": "",
-        "url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
+        	"flavor": "",
+        	"hook": "",
+        	"importance": "",
+        	"localHookTemplate": "Configuration/OxfordPerceptionLabToolboxTemplate.m",
+        	"name": "OPLToolbox",
+        	"pathPlacement": "append",
+        	"subfolder": "",
+        	"toolboxRoot": "",
+        	"type": "git",
+        	"update": "",
+        	"url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
     },
 	{
 		"flavor": "",
@@ -50,5 +50,18 @@
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "edf-converter",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/uzh/edf-converter"
 	}
 ]
