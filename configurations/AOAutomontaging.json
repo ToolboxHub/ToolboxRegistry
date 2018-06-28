@@ -3,52 +3,13 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
-		"name": "signal",
+		"localHookTemplate": "Configuration/AOAutomontagingLocalHookTemplate.m",
+		"name": "AOAutomontaging",
 		"pathPlacement": "append",
-		"subfolder": "",
+		"subfolder": "SupportFunctions",
 		"toolboxRoot": "",
-		"type": "installed",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "stats",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "images",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "optim",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
+		"url": "https://github.com/brainardlab/AOAutomontaging.git"
 	}
 ]
