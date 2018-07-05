@@ -4,12 +4,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "MatlabPyrTools",
+		"name": "BLS-GSM-Desnoising",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "webget",
 		"update": "never",
-		"url": "https://github.com/LabForComputationalVision/matlabPyrTools.git"
+		"url": "https://www.io.csic.es/PagsPers/JPortilla/content/BLS-GSM/software/BLS-GSM_Denoising.zip"
 	}
 ]
