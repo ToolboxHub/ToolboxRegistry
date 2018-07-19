@@ -9,6 +9,19 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/gkaguirrelab/octExplorerSupport.git"
+		"url": "https:\/\/github.com\/gkaguirrelab\/octExplorerSupport.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "octSeg",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/66873\/versions\/1\/download\/zip"
 	}
 ]
