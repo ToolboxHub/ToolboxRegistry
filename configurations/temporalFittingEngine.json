@@ -33,6 +33,17 @@
 		"update": "",
 		"url": ""
 	},
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "BrainardLabToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
 	{
 		"flavor": "",
 		"hook": "",
