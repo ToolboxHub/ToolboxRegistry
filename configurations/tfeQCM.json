@@ -41,7 +41,7 @@
 		"localHookTemplate": "",
 		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
-		"subfolder": "Psychtoolbox",
+		"subfolder": ["Psychtoolbox/Psychometric"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
