@@ -10,6 +10,6 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-        "url": "https://github.com/flywheel-io/core/releases/download/2.1.4/flywheel-sdk-2.1.4.mltbx"
+        "url": "https://github.com/flywheel-io/core/releases/download/4.2.0/flywheel-sdk-4.2.0.mltbx"
 	}
 ]
