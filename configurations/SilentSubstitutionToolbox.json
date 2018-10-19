@@ -19,11 +19,11 @@
 		"localHookTemplate": "",
 		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
-		"subfolder": ["PsychColorimetric" "PsychColorimetricData"],
+		"subfolder": ["Psychtoolbox/PsychColorimetric", "Psychtoolbox/PsychColorimetricData"],
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
 	},
 	{
 		"flavor": "",
@@ -32,11 +32,11 @@
 		"localHookTemplate": "",
 		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
-		"subfolder": ["Plotting" "OneLiners"],
+		"subfolder": ["Plotting", "OneLiners"],
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/brainardlab/BrainardLabToolbox.git"
 	},
     {
 		"flavor": "",
