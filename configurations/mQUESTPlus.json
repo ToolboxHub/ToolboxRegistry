@@ -12,30 +12,4 @@
 		"update": "",
 		"url": "https://github.com/brainardlab/mQUESTPlus.git"
 	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "stats",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "optim",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	}
 ]
