@@ -1,43 +1,4 @@
 [
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "signal",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "stats",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "images",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
     {
 		"flavor": "",
 		"hook": "",
@@ -58,42 +19,39 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "scitran",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": "https://github.com/vistalab/scitran.git"
 	},
     {
 		"flavor": "",
 		"hook": "",
-		"importance": "",
 		"localHookTemplate": "",
-		"name": "UnitTestToolbox",
+		"name": "LFToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
+		"url": "https://github.com/doda42/LFToolbox.git"
 	},
     {
 		"flavor": "",
 		"hook": "",
-		"importance": "",
 		"localHookTemplate": "",
-		"name": "ExampleTestToolbox",
+		"name": "JSONio",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
