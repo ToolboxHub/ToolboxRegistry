@@ -71,5 +71,18 @@
 		"type": "docker",
 		"update": "",
 		"url": "vistalab\/pbrt-v3-spectral"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "optional",
+		"localHookTemplate": "",
+		"name": "pbrt-v2-spectralr",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "docker",
+		"update": "",
+		"url": "vistalab\/pbrt-v2-spectral"
 	}
 ]
