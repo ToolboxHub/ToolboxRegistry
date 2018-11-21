@@ -2,14 +2,14 @@
     {
 		"flavor": "",
 		"hook": "",
-		"name": "iset3D",
+		"name": "iset3d",
         "localHookTemplate": "",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/iset/iset3D.git"
+		"url": "https://github.com/ISET/iset3d.git"
 	},
     {
 		"flavor": "",
@@ -64,7 +64,7 @@
 		"hook": "",
 		"importance": "optional",
 		"localHookTemplate": "",
-		"name": "pbrt-v3-spectralr",
+		"name": "pbrt-v3-spectral",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -77,7 +77,7 @@
 		"hook": "",
 		"importance": "optional",
 		"localHookTemplate": "",
-		"name": "pbrt-v2-spectralr",
+		"name": "pbrt-v2-spectral",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
