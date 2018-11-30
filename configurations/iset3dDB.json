@@ -2,14 +2,14 @@
     {
 		"flavor": "",
 		"hook": "",
-		"name": "iset3d",
+		"name": "iset3dDB",
         "localHookTemplate": "",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/ISET/iset3d.git"
+		"url": "https://github.com/BrainardLab/iset3d.git"
 	},
     {
 		"flavor": "",
