@@ -19,9 +19,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": ""
 	},
     {
 		"flavor": "",
@@ -34,6 +34,19 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/vistalab/scitran.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "flywheel-sdk",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	},
     {
 		"flavor": "",
