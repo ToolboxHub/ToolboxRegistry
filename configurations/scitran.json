@@ -1,0 +1,12 @@
+{
+    "flavor": "",
+    "hook": "",
+    "localHookTemplate": "",
+    "name": "scitran",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/vistalab/scitran.git"
+}
