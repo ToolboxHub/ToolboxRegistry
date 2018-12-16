@@ -31,9 +31,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/vistalab/scitran.git"
+		"url": ""
 	},
     {
 		"flavor": "",
