@@ -10,11 +10,7 @@
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-        "url": [
-               "MACI64"
-               "https://stanford.box.com/shared/static/j89elq3upt0ojxaju4cxwyft6heuiwnk.zip"
-               "GLNXA64" 
-               "https://stanford.box.com/shared/static/wnrmyhud3og6zcnevmpf2147e5trza7x.zip"
-               ]
+        "java": "flywheel-sdk/api/rest-client.jar",
+        "url": "https://github.com/flywheel-io/core/releases/download/4.3.2/flywheel-matlab-sdk-4.3.2.zip"        
 	}
 ]
