@@ -40,7 +40,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "flywheel-sdk",
+		"name": "fw_sdk_matlab",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
