@@ -1,12 +1,27 @@
+[
 {
-    "flavor": "",
-    "hook": "",
-    "localHookTemplate": "",
-    "name": "scitran",
-    "pathPlacement": "append",
-    "subfolder": "",
-    "toolboxRoot": "",
-    "type": "git",
-    "update": "",
-    "url": "https://github.com/vistalab/scitran.git"
-}
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "fw_sdk_matlab",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+        "flavor": "",
+        "hook": "",
+        "localHookTemplate": "",
+        "name": "scitran",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https://github.com/vistalab/scitran.git"
+    }
+]
