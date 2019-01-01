@@ -25,12 +25,12 @@
 		"update": "",
 		"url": ""
 	},
-    {
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "fw_sdk_matlab",
+		"name": "scitran",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
