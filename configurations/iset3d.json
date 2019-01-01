@@ -38,19 +38,6 @@
     {
 		"flavor": "",
 		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "fw_sdk_matlab",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-    {
-		"flavor": "",
-		"hook": "",
 		"localHookTemplate": "",
 		"name": "LFToolbox",
 		"pathPlacement": "append",
