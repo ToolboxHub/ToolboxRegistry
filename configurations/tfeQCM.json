@@ -29,7 +29,7 @@
 		"localHookTemplate": "Configuration/BrainardLabToolboxLocalHookTemplate.m",
 		"name": "BrainardLabToolbox",
 		"pathPlacement": "append",
-		"subfolder": ["Ellipsoids" "OneLiners"],
+		"subfolder": ["Ellipsoids", "OneLiners"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
