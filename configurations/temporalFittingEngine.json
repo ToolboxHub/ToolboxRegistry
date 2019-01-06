@@ -22,10 +22,21 @@
 		"update": "",
 		"url": ""
 	},
-        {
+    {
 		"flavor": "",
 		"hook": "",
 		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "ExampleTestToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
