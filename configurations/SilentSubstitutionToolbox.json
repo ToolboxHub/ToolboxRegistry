@@ -19,7 +19,7 @@
 		"localHookTemplate": "",
 		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
-		"subfolder": ["Psychtoolbox/PsychColorimetric", "Psychtoolbox/PsychColorimetricData", "Psychtoolbox/PsychOneliners", "Psychtoolbox/PsychRadiometric"],
+		"subfolder": ["Psychtoolbox/PsychColorimetric", "Psychtoolbox/PsychColorimetricData", "Psychtoolbox/PsychOneliners", "Psychtoolbox/PsychRadiometric", "Psychtoolbox/PsychFiles", "Psychtoolbox/PsychCal", "Psychtoolbox/PsychCalDemoData"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
