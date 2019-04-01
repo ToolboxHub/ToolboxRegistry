@@ -1,0 +1,11 @@
+[
+	{	
+		"name": "Lab-Matlab-Utilities",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/TheGoldLab/Lab-Matlab-Utilities.git"
+	}
+]
