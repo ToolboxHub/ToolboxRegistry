@@ -11,32 +11,6 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/gkaModelEye.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "polyfitn",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "webget",
-		"update": "",
-		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/34765\/versions\/4\/download\/zip"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "spheretri",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https:\/\/github.com\/pgagarinov\/spheretri"
 	},	
 	{
 		"flavor": "",
