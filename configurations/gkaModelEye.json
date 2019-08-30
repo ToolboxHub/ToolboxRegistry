@@ -3,7 +3,7 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
+		"localHookTemplate": "config/gkaModelEyeLocalHookTemplate.m",
 		"name": "gkaModelEye",
 		"pathPlacement": "append",
 		"subfolder": "",
