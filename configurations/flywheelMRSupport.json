@@ -4,6 +4,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "configuration/flywheelMRSupportLocalHookTemplate.m",
+		"printLocalHookOutput": "1",
 		"name": "flywheelMRSupport",
 		"pathPlacement": "append",
 		"subfolder": "",
