@@ -4,6 +4,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "config/gkaModelEyeLocalHookTemplate.m",
+		"printLocalHookOutput": "1",
 		"name": "gkaModelEye",
 		"pathPlacement": "append",
 		"subfolder": "",
