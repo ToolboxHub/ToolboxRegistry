@@ -11,6 +11,6 @@
 		"type": "webget",
 		"update": "",
         "java": "flywheel-sdk/api/rest-client.jar",
-        "url": "https://github.com/flywheel-io/core/releases/download/6.3.0/flywheel-matlab-sdk-6.3.0.zip"        
+        "url": "https://github.com/flywheel-io/core/releases/download/9.0.3/flywheel-matlab-sdk-9.0.3.zip"        
 	}
 ]
