@@ -72,6 +72,19 @@
 		"update": "",
 		"url": "vistalab\/pbrt-v3-spectral"
 	},
+{
+		"flavor": "",
+		"hook": "",
+		"importance": "optional",
+		"localHookTemplate": "",
+		"name": "pbrt-v3-spectral:test",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "docker",
+		"update": "",
+		"url": "vistalab\/pbrt-v3-spectral:test"
+	},
     {
 		"flavor": "",
 		"hook": "",
