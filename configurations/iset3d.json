@@ -1,6 +1,19 @@
 [
     {
 		"flavor": "",
+		"hook": "clear mex",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "RenderToolbox4_binary",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox4\/releases\/download\/v4.0\/build.zip"
+	},
+    {
+		"flavor": "",
 		"hook": "",
 		"name": "iset3d",
         "localHookTemplate": "",
