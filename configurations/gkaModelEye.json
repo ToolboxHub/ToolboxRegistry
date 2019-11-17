@@ -12,6 +12,19 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/gkaguirrelab\/gkaModelEye.git"
+	},
+ 	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "gif",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/63239\/versions\/2\/download\/zip"
 	},	
 	{
 		"flavor": "",
