@@ -1,0 +1,14 @@
+[
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "isetcam",
+        "localHookTemplate": "",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/ISET/isetcam.git"
+	}
+]
