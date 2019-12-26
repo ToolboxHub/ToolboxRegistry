@@ -152,7 +152,7 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
-		"update": "",
+		"update": "never",
 		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox4\/releases\/download\/v4.0\/build.zip"
 	},
 	{
