@@ -1,0 +1,41 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "forwardModel",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/gkaguirrelab\/forwardModel.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "fshift",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/7886\/versions\/5\/download\/zip"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "progressBar",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/JAAdrian/MatlabProgressBar.git"
+	}	
+]
