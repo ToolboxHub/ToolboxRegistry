@@ -9,8 +9,8 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
-		"update": "never",
+		"update": "",
         "java": "flywheel-sdk\/api\/rest-client.jar",
-        "url": "https:\/\/github.com\/flywheel-io\/core\/releases\/download\/10.0.1\/flywheel-matlab-sdk-10.0.1.zip"
+        "url": "https://storage.googleapis.com/flywheel-dist/sdk/11.1.0/flywheel-matlab-sdk-11.1.0.zip"
 	}
 ]
