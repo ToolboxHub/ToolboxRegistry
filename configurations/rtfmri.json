@@ -12,6 +12,19 @@
 		"update": "",
 		"url": ""
 	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "rtfmri",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/smweis\/rtfmri.git"
+	},
  	{
 		"flavor": "",
 		"hook": "",
