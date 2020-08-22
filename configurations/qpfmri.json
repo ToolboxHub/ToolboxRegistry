@@ -48,7 +48,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "installed",
+		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/smweis\/qpfmri.git"
 	},
