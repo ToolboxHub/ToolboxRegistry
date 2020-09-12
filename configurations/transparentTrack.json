@@ -3,7 +3,7 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
+		"localHookTemplate": "config/transparentTrackLocalHookTemplate.m",
 		"name": "transparentTrack",
 		"pathPlacement": "append",
 		"subfolder": "",
