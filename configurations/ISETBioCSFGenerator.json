@@ -3,14 +3,14 @@
 		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "configuration/ISETBioISETBioAdaPEELocalHookTemplate.m",
-		"name": "ISETBioAdaPEE",
+		"localHookTemplate": "configuration/ISETBioCSFGeneratorLocalHookTemplate.m",
+		"name": "ISETBioCSFGenerator",
 		"pathPlacement": "append",
 		"subfolder": ["toolbox", "tutorials", "resources"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/ISETBioAdaPEE.git"
+		"url": "https://github.com/isetbio/ISETCSFGenerator.git"
 	},
 	{
 		"flavor": "",
@@ -37,5 +37,18 @@
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Palamedes_1.8.2",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "never",
+		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
 	}
 ]
