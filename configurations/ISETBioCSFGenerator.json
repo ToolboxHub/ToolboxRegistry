@@ -6,7 +6,7 @@
 		"localHookTemplate": "configuration/ISETBioCSFGeneratorLocalHookTemplate.m",
 		"name": "ISETBioCSFGenerator",
 		"pathPlacement": "append",
-		"subfolder": ["toolbox", "tutorials", "resources", "recipes", "computeFunctions"],
+		"subfolder": ["toolbox", "tutorials", "validation", "resources", "recipes", "computeFunctions"],
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
