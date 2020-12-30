@@ -1,27 +1,40 @@
 [
     {
 		"flavor": "",
+		"hook": "clear mex",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "RenderToolbox4_binary",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/github.com\/RenderToolbox\/RenderToolbox4\/releases\/download\/v4.0\/build.zip"
+	},
+    {
+		"flavor": "",
 		"hook": "",
-		"name": "iset3dDB",
+		"name": "iset3d",
         "localHookTemplate": "",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/BrainardLab/iset3d.git"
+		"url": "https://github.com/ISET/iset3d.git"
 	},
     {
 		"flavor": "",
 		"hook": "",
-		"name": "isetbio",
+		"name": "isetcam",
         "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": ""
 	},
     {
 		"flavor": "",
@@ -51,6 +64,18 @@
 		"flavor": "",
 		"hook": "",
 		"localHookTemplate": "",
+		"name": "isetlens",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
 		"name": "JSONio",
 		"pathPlacement": "append",
 		"subfolder": "",
@@ -71,6 +96,19 @@
 		"type": "docker",
 		"update": "",
 		"url": "vistalab\/pbrt-v3-spectral"
+	},
+{
+		"flavor": "",
+		"hook": "",
+		"importance": "optional",
+		"localHookTemplate": "",
+		"name": "pbrt-v3-spectral:test",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "docker",
+		"update": "",
+		"url": "vistalab\/pbrt-v3-spectral:test"
 	},
     {
 		"flavor": "",
