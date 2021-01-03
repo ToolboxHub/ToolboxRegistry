@@ -122,5 +122,16 @@
 		"type": "docker",
 		"update": "",
 		"url": "vistalab\/pbrt-v2-spectral"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "UnitTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
 	}
 ]
