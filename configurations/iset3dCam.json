@@ -127,6 +127,17 @@
 		"flavor": "",
 		"hook": "",
 		"localHookTemplate": "",
+		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
 		"name": "UnitTestToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
