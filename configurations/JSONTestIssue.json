@@ -1,0 +1,14 @@
+[
+	{
+		"flavor": "main",
+		"hook": "",
+		"name": "JSONio",
+		"pathPlacement": "append",
+		"printLocalHookOutput": "",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/gllmflndn/JSONio"
+	}
+]
