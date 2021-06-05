@@ -63,14 +63,14 @@
     {
 		"flavor": "",
 		"hook": "",
-		"localHookTemplate": "",
 		"name": "isetlens",
+        "localHookTemplate": "",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/ISET/isetlens.git"
 	},
     {
 		"flavor": "",
