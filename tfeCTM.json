@@ -1,0 +1,88 @@
+[
+	
+        {
+		"flavor": "",
+		"hook": "",
+		"name": "UnitTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+        {
+		"flavor": "",
+		"hook": "",
+		"name": "RemoteDataToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+        "flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "Configuration/BrainardLabToolboxLocalHookTemplate.m",
+		"name": "BrainardLabToolbox",
+		"pathPlacement": "append",
+		"subfolder": ["Ellipsoids", "OneLiners"],
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/brainardlab/BrainardLabToolbox.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"subfolder": ["Psychtoolbox/Psychometric"],
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "fshift",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "",
+		"url": "https:\/\/www.mathworks.com\/matlabcentral\/mlc-downloads\/downloads\/submissions\/7886\/versions\/5\/download\/zip"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "temporalFittingEngine",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "tfeCTM",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/michaeab/tfeCTM.git"
+	}
+]
+
