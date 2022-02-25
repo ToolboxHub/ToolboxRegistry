@@ -3,11 +3,11 @@
     "hook": "",
     "importance": "",
     "localHookTemplate": "",
-    "name": "Palamedes_1.9.0",
+    "name": "Palamedes",
     "pathPlacement": "append",
     "subfolder": "",
     "toolboxRoot": "",
     "type": "webget",
     "update": "never",
-    "url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_9_0.zip"
+    "url": ""
 }
