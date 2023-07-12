@@ -1,18 +1,18 @@
 [
     {
-		"flavor": "isetcam",
+		"flavor": "",
 		"hook": "",
 		"name": "isetbio",
         "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": ""
 	},
     {
-		"flavor": "dev",
+		"flavor": "",
 		"hook": "",
 		"name": "isetcam",
         "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
