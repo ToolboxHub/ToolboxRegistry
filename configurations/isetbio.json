@@ -36,18 +36,5 @@
 		"type": "include",
 		"update": "",
 		"url": ""
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "isetvalidate",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/ISET/isetvalidate"
-	}   
+	}
 ]
