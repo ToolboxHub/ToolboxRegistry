@@ -1,0 +1,14 @@
+[
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "isetvalidate",
+        "localHookTemplate": "",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/iset/isetvalidate.git"
+	}
+]
