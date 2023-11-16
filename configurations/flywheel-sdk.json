@@ -5,11 +5,11 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "flywheel-sdk",
-		"pathPlacement": "mltbx",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
 		"update": "",
-        "url": "https:\/\/github.com\/flywheel-io\/core\/releases\/download\/4.3.2\/flywheel-sdk-4.3.2.mltbx"
+        "url": "https:\/\/storage.googleapis.com\/flywheel-dist\/sdk\/17.4.0\/flywheel-matlab-sdk-17.4.0.zip"
 	}
 ]
