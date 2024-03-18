@@ -1,0 +1,54 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "configuration/ISETBioCSFGeneratorLocalHookTemplate.m",
+		"name": "ISETBioCSFGenerator",
+		"pathPlacement": "append",
+		"subfolder": ["toolbox", "tutorials", "validation", "resources", "recipes", "computeFunctions", "demoapps"],
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/isetbio/ISETBioCSFGenerator.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "isetbio",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "mQUESTPlus",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Palamedes_1.8.2",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "never",
+		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
+	}
+]
