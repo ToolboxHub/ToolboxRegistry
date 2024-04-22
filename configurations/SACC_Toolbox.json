@@ -1,0 +1,14 @@
+[
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "SACC_toolbox",
+        "localHookTemplate": "",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/BrainardLab/SACC_Toolbox.git"
+	}
+]
