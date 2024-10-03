@@ -1,10 +1,35 @@
 [
     {
-    	"flavor": "",
+		"flavor": "",
 		"hook": "",
 		"importance": "",
-		"localHookTemplate": "",
-		"name": "isetvalidate",
+		"localHookTemplate": "configuration/ISETTutorialsLocalHookTemplate.m",
+		"name": "ISETTutorials",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/ISET/ISETTutorials.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "configuration/ISETBioCSFGeneratorLocalHookTemplate.m",
+		"name": "ISETBioCSFGenerator",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/isetbio/ISETBioCSFGenerator.git"
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "isetbio",
+        "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -15,14 +40,14 @@
     {
 		"flavor": "",
 		"hook": "",
-		"name": "isetbio",
-        "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
+		"name": "isetcam",
+        "localHookTemplate": "configuration/isetcamLocalHookTemplate.m",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": "https://github.com/iset/isetcam.git"
 	},
     {
 		"flavor": "",
@@ -49,5 +74,44 @@
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ExampleTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "mQUESTPlus",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Palamedes_1.8.2",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "webget",
+		"update": "never",
+		"url": "http://palamedestoolbox.org/sitebuildercontent/sitebuilderfiles/palamedes1_8_2.zip"
 	}
 ]
