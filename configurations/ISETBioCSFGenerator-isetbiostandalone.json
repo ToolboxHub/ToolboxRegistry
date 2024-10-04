@@ -17,7 +17,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "isetbio",
+		"name": "isetbio-isetbiostandalone",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
