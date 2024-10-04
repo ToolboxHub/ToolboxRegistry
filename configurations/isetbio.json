@@ -2,6 +2,18 @@
     {
 		"flavor": "",
 		"hook": "",
+		"name": "isetvalidate",
+        "localHookTemplate": "",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
 		"importance": "",
 		"localHookTemplate": "configuration/ISETTutorialsLocalHookTemplate.m",
 		"name": "ISETTutorials",
