@@ -1,18 +1,5 @@
 [
     {
-    	"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "isetvalidate",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-    {
 		"flavor": "",
 		"hook": "",
 		"name": "isetbio",
