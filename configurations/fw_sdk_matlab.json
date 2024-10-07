@@ -11,7 +11,7 @@
 		"type": "webget",
 		"update": "",
         "java": "flywheel-sdk\/api\/rest-client.jar",
-        "url": "https://storage.googleapis.com/flywheel-dist/sdk/15.8.0/flywheel-matlab-sdk-15.8.0.zip"
+        "url": "https://storage.googleapis.com/flywheel-dist/sdk/19.1.0/flywheel-matlab-sdk-19.1.0.zip"
 	},
 	{
 		"flavor": "",
