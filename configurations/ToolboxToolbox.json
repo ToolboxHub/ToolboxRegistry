@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ToolboxToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "userpath",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/toolboxhub/ToolboxToolbox.git"
+	}
+]
